@@ -1,0 +1,90 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "image": "https://i.postimg.cc/NFBnnyrK/branko-stancevic-GI1hw-OGq-Gt-E-unsplash.jpg",
+      "description": "I am a great team player and also work well on my own; I am also a quick leaner ,I got a certificate in Graphic design at iampassion youth cafe",
+      "icon1": "https://i.postimg.cc/RhB9GVRF/css.png",
+      "icon2": "https://i.postimg.cc/rw82Ywr0/bootstrap.png",
+      "icon3": "https://i.postimg.cc/yYhzPZkC/html-5.png",
+      "icon4": "https://i.postimg.cc/FHDXtXyP/js.png",
+      "icon5": ""
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "image": "https://i.postimg.cc/qMyY8h1V/element5-digital-Oy-Cl7-Y4y0-Bk-unsplash.jpg",
+      "description": "I attended Spine Road HIgh School, where at that time i was not that into anything IT related it was only after high school that i found IT to be really intresting. I then went off to do a year course for a Higher Certificate in IT at CPUT."
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "image": "",
+      "description": ""
+
+    },
+    {
+        "id": "2",
+        "image": "",
+        "description": ""
+        
+      },
+      {
+        "id": "3",
+        "image": "",
+        "description": ""
+        
+      },
+      {
+        "id": "4",
+        "image": "",
+        "description": ""
+        
+      },
+      {
+        "id": "5",
+        "image": "",
+        "description": ""
+        
+      },
+      {
+        "id": "6",
+        "image": "",
+        "description": ""
+      }
+  ],
+  "testimonials": [
+    { 
+    "id": "1", 
+    "image": "",
+    "description": ""
+     },
+     { 
+    "id": "2", 
+    "image": "",
+    "description": ""
+     },
+     { 
+    "id": "3", 
+    "image": "",
+    "description": ""
+     },
+     { 
+    "id": "4", 
+    "image": "",
+    "description": ""
+     },
+     { 
+    "id": "5", 
+    "image": "",
+    "description": ""
+     },
+     { 
+    "id": "6", 
+    "image": "",
+    "description": ""
+     }
+    ]
+}
