@@ -21,51 +21,54 @@
   "projects": [
     {
       "id": "1",
-      "image": "",
-      "description": ""
-
+      "image": "https://i.postimg.cc/tRxzZxP5/Screenshot-2023-07-04-205442.png",
+      "description": "This is a e-commerce web page i made with java-script",
+       "link":"https://alonso-ecomsite.netlify.app/"
     },
     {
         "id": "2",
-        "image": "",
-        "description": ""
-        
+        "image": "https://i.postimg.cc/mrgwtpNz/Screenshot-2023-07-04-205530.png",
+        "description": "This is a to-do list that i created",
+        "link":"https://whimsical-malabi-a256eb.netlify.app/"
       },
       {
         "id": "3",
-        "image": "",
-        "description": ""
-        
+        "image": "https://i.postimg.cc/kM0ffc9z/Screenshot-2023-07-04-205602.png",
+        "description": "Here i built a temperature conver using java-script",
+        "link":"https://leafy-crumble-de63f5.netlify.app/"
       },
       {
         "id": "4",
-        "image": "",
-        "description": ""
+        "image": "https://i.postimg.cc/9Fy1S7QM/Screenshot-2023-07-04-205636.png",
+        "description": "Here i built a BMi calculator using java-script",
+        "link":"https://fabulous-chimera-5c9dd2.netlify.app/"
         
       },
       {
         "id": "5",
-        "image": "",
-        "description": ""
-        
+        "image": "https://i.postimg.cc/fRZ5hRVv/Screenshot-2023-07-04-205708.png",
+        "description": "Here i built a calculator using java-script",
+        "link":"https://luminous-yeot-5cd1b3.netlify.app/"
       },
       {
         "id": "6",
-        "image": "",
-        "description": ""
+        "image": "https://i.postimg.cc/W1n8pcrc/Screenshot-2023-07-04-205744.png",
+        "description": "This is my first portfolio i made with Html, CSS and Bootstrap",
+        "link":"https://alonso-portfolio1.netlify.app/"
       }
+  
   ],
   "testimonials": [
     { 
     "id": "1", 
-    "image": "https://i.postimg.cc/L6Kb0T1c/20230510-091639.jpg",
+    "image": "https://i.postimg.cc/CMBvhpQX/Mujahid-2.jpg",
      "name":"Mujahhid",
     "description": "Alonso a man that is always ready for battle. He does not coward away from a challenge. When every you need his assistance he will jump into action and help. There is many more things to say about Alonso and that is just he is a action taker not a by stander."
      },
      { 
     "id": "2", 
     "image": "https://i.postimg.cc/PqrcQ5wN/IMG-20230510-WA0012.jpg",
-    "name":"Logan"
+    "name":"Logan",
     "description": "After working with Alonso for the past months I've come to notice that he is an great person with excellent work ethics. I worked with him on past projects and he has been a good team player."
      },
      { 
@@ -88,9 +91,9 @@
      },
      { 
     "id": "6", 
-    "image": "",
-      "name":"someone"
-    "description": "Alonso is dedicated, hard working and a team player. He works well his peers and performs well on his projects. He has a good understanding of web development and would be a valuable addition to any team that is lucky enough to have him."
+    "image": "https://i.postimg.cc/bNYGhkLv/90928282-1613696178782933-8697521963691671552-n.jpg",
+      "name":"Jason",
+    "description": "Alonso is is seen as a very dedicated person, always ready to take on any challenge that is put in front of him. Always ready to lend a helping hand in class or the workplace. He is very resourceful and can figure almost any problem and he has shown this capability countless times in the workplace and projects that were handed to him."
      }
     ]
 }
