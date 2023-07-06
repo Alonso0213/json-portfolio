@@ -14,9 +14,22 @@
   "education": [
     {
       "id": "1",
-      "image": "https://i.postimg.cc/qMyY8h1V/element5-digital-Oy-Cl7-Y4y0-Bk-unsplash.jpg",
-      "description": "I attended Spine Road HIgh School, where at that time i was not that into anything IT related it was only after high school that i found IT to be really intresting. I then went off to do a year course for a Higher Certificate in IT at CPUT."
-    }
+      "image": "https://i.postimg.cc/gJBw5c0R/spine-Road.png",
+      "description": "I attended Spine Road HIgh School, where at that time i was not that into anything IT related it was only after high school that i found IT to be really intresting.",
+      "year":"2017-2021"
+    },
+    {
+        "id": "2",
+        "image": "https://i.postimg.cc/G29tk0jp/Cape-Peninsula-logo-vertical.webp",
+        "description": "After High school I then went off to do a year course for a Higher Certificate in IT at CPUT.",
+        "year":"2022"
+    },
+    {
+        "id": "3",
+        "image": "https://i.postimg.cc/YSdjG2YV/download-1.png",
+        "description": "I am currently sudying at Life choices",
+        "year":"2022-currently"
+      },
   ],
   "projects": [
     {
