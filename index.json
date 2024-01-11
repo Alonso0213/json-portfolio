@@ -14,19 +14,19 @@
   "education": [
     {
       "id": "1",
-      "image": "https://i.postimg.cc/gJBw5c0R/spine-Road.png",
+      "image": "https://i.ibb.co/1G9Q1Vb/spine-road-logo.png",
       "description": "I attended Spine Road HIgh School, where at that time i was not that into anything IT related it was only after high school that i found IT to be really intresting.",
       "year":"2017-2021"
     },
     {
         "id": "2",
-        "image": "https://i.postimg.cc/G29tk0jp/Cape-Peninsula-logo-vertical.webp",
+        "image": "https://i.ibb.co/YcWxChX/SAGEA-affiliate-logos09013-1.png",
         "description": "After High school I then went off to do a year course for a Higher Certificate in IT at CPUT.",
         "year":"2022"
     },
     {
         "id": "3",
-        "image": "https://i.postimg.cc/YSdjG2YV/download-1.png",
+        "image": "https://i.ibb.co/KGKgxQM/download-3.png",
         "description": "I am currently sudying at Life choices",
         "year":"2022-currently"
       }
@@ -81,7 +81,7 @@
   "testimonials": [
     { 
     "id": "1", 
-    "image": "https://i.postimg.cc/CMBvhpQX/Mujahid-2.jpg",
+    "image": "https://i.ibb.co/L1LLm78/IMG-20231116-WA0000.jpg",
      "name":"Mujahid",
     "description": "Alonso a man that is always ready for battle. He does not coward away from a challenge. When every you need his assistance he will jump into action and help. There is many more things to say about Alonso and that is just he is a action taker not a by stander."
      },
@@ -111,7 +111,7 @@
      },
      { 
     "id": "6", 
-    "image": "https://i.postimg.cc/bNYGhkLv/90928282-1613696178782933-8697521963691671552-n.jpg",
+    "image": "https://i.ibb.co/Gpym5sW/90928282-1613696178782933-8697521963691671552-n.jpg",
       "name":"Jason",
     "description": "Alonso is is seen as a very dedicated person, always ready to take on any challenge that is put in front of him. Always ready to lend a helping hand in class or the workplace. He is very resourceful and can figure almost any problem and he has shown this capability countless times in the workplace and projects that were handed to him."
      }
